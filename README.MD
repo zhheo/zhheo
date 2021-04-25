@@ -1,3 +1,3 @@
 👋 Hello! I'm 张洪Heo(HongZhang)
 
-Graphic Design, UI / Visual Design, Product Design
+Graphic Designer, UI / Visual Designer, Product Designer

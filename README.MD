@@ -4,6 +4,6 @@ Graphic Designer, UI / Visual Designer, Product Designer
 
 Welcome to my blog. [Let's go!](https://blog.zhheo.com/)
 
-[More about myself](https://blog.zhheo.com/about/#%E5%85%B3%E4%BA%8E%E6%88%91)
+[More about myself](https://blog.zhheo.com/about/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhheo)

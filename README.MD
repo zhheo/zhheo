@@ -1,7 +1,7 @@
-## 👋 Hello! I'm 张洪Heo(HongZhang)
+## 👋 Hi there! I'm Heo Hong Zhang (张洪Heo)
 
-Digital Designer, UI / Visual Designer, Product Designer
+Digital Designer | UI/Visual Designer | Product Designer
 
-Welcome to my blog. [Let's go!](https://blog.zhheo.com/)
+Welcome to my blog. [let’s dive in!](https://blog.zhheo.com/)
 
-[More about myself](https://zhheo.com/)
+[Learn more about me](https://zhheo.com/)
